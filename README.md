@@ -1,6 +1,8 @@
 <div align="center">
 
+<a href="https://www.artisticimpression.org/" target="_blank">
 <img src="assets/artisticlogo.png" alt="Artistic Impression" width="200"/>
+</a>
 
 # 🎙️ MikoEcho
 
@@ -421,9 +423,11 @@ Special thanks to:
 
 ### 💝 Built with Love by
 
+<a href="https://www.artisticimpression.org/" target="_blank">
 <img src="assets/artisticlogo.png" alt="Artistic Impression" width="150"/>
+</a>
 
-**Artistic Impression — Miko AI**
+**[Artistic Impression](https://www.artisticimpression.org/) — Miko AI**
 
 *Pioneering the Future of Voice Technology*
 
