@@ -320,28 +320,22 @@ Voice localization
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://www.artisticimpression.org/" target="_blank">
-<img src="assets/artisticlogo.png" alt="Artistic Impression" width="80"/><br/>
-<b>Artistic<br/>Impression</b>
-</a>
-</td>
-<td align="center" width="16%">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br/>
 <b>Python 3.8+</b>
 </td>
-<td align="center" width="16%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/><br/>
 <b>PyTorch 2.0+</b>
 </td>
-<td align="center" width="16%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br/>
 <b>FastAPI</b>
 </td>
-<td align="center" width="16%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
 <b>Docker</b>
 </td>
-<td align="center" width="16%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/><br/>
 <b>CUDA</b>
 </td>
