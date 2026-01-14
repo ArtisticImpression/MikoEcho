@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mikoecho"
+version = "0.1.0"
+description = "Production-grade voice cloning and voice-to-voice transformation system"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Artistic Impression", email = "contact@artisticimpression.org"}
+]
+keywords = ["voice cloning", "voice conversion", "speech synthesis", "neural vocoder", "TTS"]
+
+[project.urls]
+Homepage = "https://github.com/ArtisticImpression/MikoEcho"
+Documentation = "https://github.com/ArtisticImpression/MikoEcho/docs"
+Repository = "https://github.com/ArtisticImpression/MikoEcho"
+Issues = "https://github.com/ArtisticImpression/MikoEcho/issues"
+
+[tool.black]
+line-length = 100
+target-version = ['py38', 'py39', 'py310', 'py311']
+include = '\.pyi?$'
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[tool.mypy]
+python_version = "3.8"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"
+addopts = "-v --cov=mikoecho --cov-report=html --cov-report=term"
