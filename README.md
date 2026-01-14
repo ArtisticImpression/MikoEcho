@@ -1,24 +1,51 @@
 <div align="center">
 
+<!-- Company Logo -->
 <a href="https://www.artisticimpression.org/" target="_blank">
-<img src="assets/artisticlogo.png" alt="Artistic Impression" width="200"/>
+<img src="assets/artisticlogo.png" alt="Artistic Impression" width="220"/>
 </a>
 
-# 🎙️ MikoEcho
+<br/><br/>
 
-### Production-Grade Voice Cloning & Text-to-Speech System
+<!-- Product Title -->
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" alt="🎙️" width="40" height="40" />
+  MikoEcho
+</h1>
 
-<img src="assets/miko.jpg" alt="Miko AI" width="150"/>
+<h3>🚀 Enterprise-Grade Voice Cloning & Text-to-Speech Platform</h3>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)](https://github.com/ArtisticImpression/MikoEcho)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+<!-- Miko AI Badge -->
+<p>
+<img src="assets/miko.jpg" alt="Miko AI" width="120"/>
+</p>
 
-**Clone any voice • Generate natural speech • Control emotions • Real-time capable**
+<!-- Badges -->
+<p>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="MIT License"/></a>
+<a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8+-blue.svg?style=flat-square&logo=python&logoColor=white" alt="Python 3.8+"/></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+<a href="https://github.com/ArtisticImpression/MikoEcho"><img src="https://img.shields.io/badge/Open%20Source-❤-red?style=flat-square" alt="Open Source"/></a>
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+<img src="https://img.shields.io/github/stars/ArtisticImpression/MikoEcho?style=flat-square&logo=github" alt="GitHub stars"/>
+</p>
 
-[🚀 Quick Start](#-quick-start) • [📚 Documentation](#-documentation) • [🎯 Features](#-features) • [💻 Demo](#-demo) • [🤝 Contributing](#-contributing)
+<!-- Key Features -->
+<p>
+<b>🎤 Clone Any Voice</b> • 
+<b>📝 Natural Speech Generation</b> • 
+<b>🎭 Emotion Control</b> • 
+<b>⚡ Real-Time Processing</b>
+</p>
+
+<!-- Navigation -->
+<p>
+<a href="#-quick-start"><b>Quick Start</b></a> • 
+<a href="#-documentation"><b>Documentation</b></a> • 
+<a href="#-features"><b>Features</b></a> • 
+<a href="#-demo"><b>Live Demo</b></a> • 
+<a href="#-contributing"><b>Contributing</b></a>
+</p>
 
 ---
 
@@ -290,11 +317,38 @@ Voice localization
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="https://www.artisticimpression.org/" target="_blank">
+<img src="assets/artisticlogo.png" alt="Artistic Impression" width="80"/><br/>
+<b>Artistic<br/>Impression</b>
+</a>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br/>
+<b>Python 3.8+</b>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/><br/>
+<b>PyTorch 2.0+</b>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br/>
+<b>FastAPI</b>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
+<b>Docker</b>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/><br/>
+<b>CUDA</b>
+</td>
+</tr>
+</table>
+
+**Powered by Artistic Impression's Advanced AI Research**
 
 </div>
 
